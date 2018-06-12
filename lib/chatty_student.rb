@@ -7,5 +7,6 @@ class Chatty_student < Student
     10.times do
      super 
     end
+  end
   
 end
